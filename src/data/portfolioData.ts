@@ -92,7 +92,7 @@ export const activities: ActivityItem[] = [
     {
         title: "Hackathon Participant",
         organization: "Various Hackathons",
-        duration: "Ongoing",
+        duration: "",
         description: "Competed in 5 hackathons, winning 3 awards.",
     },
 ];
