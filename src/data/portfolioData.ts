@@ -41,13 +41,13 @@ export interface SkillItem {
 export const skillsData: SkillItem[] = [
     { name: "React.js", icon: DiReact },
     { name: "React Native", icon: DiReact },
-    { name: "Express.js", icon: SiExpress },
-    { name: "MongoDB", icon: DiMongodb },
-    { name: "Supabase", icon: SiSupabase },
-    { name: "Git", icon: DiGit },
-    { name: "Tailwind CSS", icon: SiTailwindcss },
     { name: "TypeScript", icon: SiTypescript },
-];
+    { name: "Tailwind CSS", icon: SiTailwindcss },
+    { name: "Supabase", icon: SiSupabase },
+    { name: "MongoDB", icon: DiMongodb },
+    { name: "Express.js", icon: SiExpress },
+    { name: "Git", icon: DiGit },
+  ];
 
 export const experiences: ExperienceItem[] = [
     {
